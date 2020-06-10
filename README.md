@@ -3,6 +3,7 @@ BSc (Hons) Ethical Hacking - 1st Year - Computer Hardware Architecture and Opera
 
 ## Breathalyser
 During the first term of the first year, I've built a Breathalyser with an Arduino for the final assignment of this module.
+<br>Grade: A
 
 ## Demo
 Download HD Demo [Here](https://github.com/VFPAP/AbertayCMP101/raw/master/Breathalyser.mp4)<br><br>
